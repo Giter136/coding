@@ -1,3 +1,6 @@
 {
-    "chat.disableAIFeatures": true
+    "chat.disableAIFeatures": true,
+    "files.associations": {
+        "new": "cpp"
+    }
 }
